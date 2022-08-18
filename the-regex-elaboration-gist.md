@@ -151,11 +151,7 @@ The expression flags have the ability to change how the expression is interprete
 `(?=)` `(?!)` -> The `?=` and `?!` lookahead and lookbehind operators are used to match strings that are ahead or behind the current position in the string.
 
 ## Author
-<<<<<<< HEAD
 
-
-Hello Word, my name is Nik Sharpio a very enthusiastic and passionate programmer who is striving to become a software engineer and web developer. I am currently a student at the University of California, Los Angeles. I am a very driven and self-motivated individual who is looking for a position in the software or/and industry some time in the future. I can't wait to get started in the industry and I am looking forward to working in a great company or business of some sort.
-=======
 <code>
 Hello Word, my name is Nik Sharpio a very enthusiastic and passionate programmer who is striving to become a software engineer and web developer. I am currently a student at the University of California, Los Angeles. I am a very driven and self-motivated individual who is looking for a position in the software or/and industry some time in the future. I can't wait to get started in the industry and I am looking forward to working in a great company or business of some sort. </code>
->>>>>>> 155cecf5731a3d1d48728d4f29fab523134dd555
+
